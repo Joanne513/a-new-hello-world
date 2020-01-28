@@ -1,5 +1,5 @@
 # a-new-hello-world
-(do this again and again, review often, and you will remeber better)
+(do this again and again, review them, and you will remeber better)
 
 # workflow of git on GitHub （5 steps）
 ## 1. create a new repository
